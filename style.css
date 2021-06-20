@@ -1,0 +1,27 @@
+body {
+    scroll-behavior: smooth;
+        text-align:center;
+}
+h1 {
+    font-family: 'Grandstander', cursive;
+    font-size: 55px;
+}
+#main-screen {
+    background:darkcyan;
+    text-align: center;
+    color: white;
+}
+img {
+    border-width: thick;
+    border-color: white;
+    border-style: solid;
+    border-radius: 400px;
+    height: 400px;
+}
+#note {
+    background:deepskyblue;
+    text-align: center;
+    color: black;
+    font-family:inherit;
+    font-size: 30px;
+}
